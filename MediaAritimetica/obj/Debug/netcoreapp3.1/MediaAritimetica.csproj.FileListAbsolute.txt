@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.exe
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.deps.json
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.dll
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\bin\Debug\netcoreapp3.1\MediaAritimetica.pdb
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.dll
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.pdb
+C:\Users\Max Leonel\Desktop\MediaAritimetica\MediaAritimetica\obj\Debug\netcoreapp3.1\MediaAritimetica.genruntimeconfig.cache
